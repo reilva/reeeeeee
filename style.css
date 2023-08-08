@@ -1,0 +1,25 @@
+*{
+    margin:  0;
+     padding: 0
+    }*
+    . cabeçalho {
+         background-color: #474343
+         color:  rgb(237,243,238)
+        display: flex; 
+        justify- ::content: space-around;
+        padding: 24px 0;
+    }
+
+    .imagem-cabeçalho(
+       width: 15%;
+    ) 
+    .cabeçalho-lista-1(
+      display: inline-block;
+      margin: 0 16px;
+    )
+     .carro-imagem
+       width: 25%;
+    .mercede2(
+        background-imagem: linear-gradient(#474342, #39486a)
+     color:white;
+     disoiav:flex:
